@@ -37,5 +37,7 @@ MonoBehaviour:
   - OnDirectionChange
   - OnDirectionChange_LEFT
   - OnDirectionChange_RIGHT
+  - changeDirection
+  - destroy
   DisableAutoOpenWizard: 1
   ShowSettings: 1
